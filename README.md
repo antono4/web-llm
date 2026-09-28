@@ -1,1 +1,32 @@
-Last updated: 2026-09-29 02:35:03 WIB
+# @mlc-ai/web-llm
+
+Hardware accelerated language model chats on browsers
+
+## 📋 Overview
+
+This repository contains **282 files** and is built with the following technologies:
+
+Node.js, JavaScript
+
+## 🚀 Quick Start
+
+```bash
+npm install
+npm run dev
+npm run build
+```
+
+## ✨ Features
+
+- 📝 Auto-generated documentation
+
+## 🛠️ Technologies
+
+Node.js, JavaScript
+
+## 📄 License
+
+MIT License
+
+---
+*Last updated: 2026-09-29 04:35:52 WIB*
